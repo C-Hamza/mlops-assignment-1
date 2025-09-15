@@ -1,1 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+# Data & Models
+data/
+models/
+# Results (if large or auto-generated)
+results/
 
