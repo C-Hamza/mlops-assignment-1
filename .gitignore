@@ -9,5 +9,8 @@ __pycache__/
 #data/
 #models/
 # Results (if large or auto-generated)
-results/
+results/*
+!results/screenshots/
+!results/screenshots/*.png
+
 
