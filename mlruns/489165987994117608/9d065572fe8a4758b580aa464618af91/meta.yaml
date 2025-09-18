@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Softsys computer/mlops-assignment-1/mlruns/489165987994117608/9d065572fe8a4758b580aa464618af91/artifacts
+end_time: 1757971858186
+entry_point_name: ''
+experiment_id: '489165987994117608'
+lifecycle_stage: active
+run_id: 9d065572fe8a4758b580aa464618af91
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757971853717
+status: 3
+tags: []
+user_id: Softsys computer

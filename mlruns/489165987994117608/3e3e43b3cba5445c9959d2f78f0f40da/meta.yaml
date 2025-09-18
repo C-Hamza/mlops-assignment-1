@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Softsys computer/mlops-assignment-1/mlruns/489165987994117608/3e3e43b3cba5445c9959d2f78f0f40da/artifacts
+end_time: 1757971858264
+entry_point_name: ''
+experiment_id: '489165987994117608'
+lifecycle_stage: active
+run_id: 3e3e43b3cba5445c9959d2f78f0f40da
+run_name: learned-cub-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757971858201
+status: 3
+tags: []
+user_id: Softsys computer

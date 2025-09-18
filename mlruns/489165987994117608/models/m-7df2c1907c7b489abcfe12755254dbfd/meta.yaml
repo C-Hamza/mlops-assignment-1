@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Softsys computer/mlops-assignment-1/mlruns/489165987994117608/models/m-7df2c1907c7b489abcfe12755254dbfd/artifacts
+creation_timestamp: 1757971849148
+experiment_id: '489165987994117608'
+last_updated_timestamp: 1757971853394
+model_id: m-7df2c1907c7b489abcfe12755254dbfd
+model_type: null
+name: model
+source_run_id: fe09f9b595d0483b8d9f36a5456381c9
+status: 2
+status_message: null

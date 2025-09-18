@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/Softsys computer/mlops-assignment-1/mlruns/489165987994117608/models/m-16bbd591f89d4d51ac508a6b9d3d3f44/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.3.2
+model_id: m-16bbd591f89d4d51ac508a6b9d3d3f44
+model_size_bytes: 1300
+model_uuid: m-16bbd591f89d4d51ac508a6b9d3d3f44
+prompts: null
+run_id: d5dc3dbed05c4f528e16f651ac5a1421
+utc_time_created: '2025-09-15 21:30:42.218937'

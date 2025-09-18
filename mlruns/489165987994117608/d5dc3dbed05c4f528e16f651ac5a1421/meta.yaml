@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Softsys computer/mlops-assignment-1/mlruns/489165987994117608/d5dc3dbed05c4f528e16f651ac5a1421/artifacts
+end_time: 1757971848681
+entry_point_name: ''
+experiment_id: '489165987994117608'
+lifecycle_stage: active
+run_id: d5dc3dbed05c4f528e16f651ac5a1421
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757971841995
+status: 3
+tags: []
+user_id: Softsys computer
